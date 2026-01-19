@@ -1,6 +1,7 @@
 [Paper Minecraft]: https://scratch.mit.edu/projects/10128407/
 [Tough As Nails]: https://www.curseforge.com/minecraft/mc-mods/tough-as-nails
-[Docx]: https://github.com/cbginoshoo/Minecraft_2D-Tough-As-Nails-MOD/blob/main/_Paper%20Minecraft%20v11.6%20(Minecraft%202D)%20Tough%20As%20Nails%20MOD%20v1.0.0%20~%20v1.0.9(v1.0.91)%20%E6%9C%80%E6%96%B0%E7%89%88%20%E8%AA%AC%E6%98%8E%E6%9B%B8.docx
+[Docx]: MOD/blob/main/_Paper%20Minecraft%20v11.6%20(Minecraft%202D)%20Tough%20As%20Nails%20MOD%20v1.0.0%20~%20v1.0.9(v1.0.91)%20%E6%9C%80%E6%96%B0%E7%89%88%20%E8%AA%AC%E6%98%8E%E6%9B%B8.docxhttps://github.com/cbginoshoo/Minecraft_2D-Tough-As-Nails-
+[Html]: https://github.com/cbginoshoo/Minecraft_2D-Tough-As-Nails-MOD/blob/main/Paper%20Minecraft%20v11.6%20(Minecraft%202D)%20Tough%20As%20Nails%20MOD%20v1.0.92%20(command%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88).html
 Minecraft 2D-Tough As Nails MOD は[Tough As Nails]にインスパイアされた[Paper Minecraft]の組み込みMODです。
 組み込みビルドのため、[Paper Minecraft]の一部の要素にも変更があります。（おまけのバグもたくさんあります。）詳細は[Docx]をご覧ください。
 ## Memo
